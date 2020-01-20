@@ -1,0 +1,14 @@
+.list {
+	color: #ffffff;
+    font-size: 14px;
+    font-weight: 300;
+    line-height: 26px;
+    letter-spacing: 0.35px;
+    list-style-type: none;
+    margin-top: -10px;
+
+}
+li{
+	margin-left: -42px;
+	margin-top: 15px;
+}

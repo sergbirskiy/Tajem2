@@ -1,0 +1,110 @@
+@font-face {
+  font-family: 'icomoon';
+  src:  url('../../fonts/icomoon.eot?m5sxfx');
+  src:  url('../../fonts/icomoon.eot?m5sxfx#iefix') format('embedded-opentype'),
+    url('../../fonts/icomoon.ttf?m5sxfx') format('truetype'),
+    url('../../fonts/icomoon.woff?m5sxfx') format('woff'),
+    url('../../fonts/icomoon.svg?m5sxfx#icomoon') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+[class^="icon-"], [class*=" icon-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'icomoon' !important;
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-pencil:before {
+  content: "\e905";
+}
+.icon-calculator:before {
+  content: "\e940";
+}
+.icon-phone:before {
+  content: "\e942";
+}
+.icon-location2:before {
+  content: "\e948";
+}
+.icon-display:before {
+  content: "\e956";
+}
+.icon-mobile:before {
+  content: "\e958";
+}
+.icon-pie-chart:before {
+  content: "\e99a";
+}
+.icon-heart:before {
+  content: "\e9da";
+}
+.icon-play2:before {
+  content: "\ea15";
+  width: 100px;
+  height: 100px;
+}
+.icon-google-plus:before {
+  content: "\ea8b";
+}
+.icon-facebook:before {
+  content: "\ea90";
+}
+.icon-instagram:before {
+  content: "\ea92";
+}
+.icon-twitter:before {
+  content: "\ea96";
+}
+.icon-youtube:before {
+  content: "\ea9d";
+}
+.icon-dribbble:before {
+  content: "\eaa7";
+}
+
+.icon-quotes-left:before {
+  content: "\e977";
+}
+
+.icon-compass:before {
+  content: "\e949";
+}
+
+.play{
+  font-size: 50px;
+  margin-left: 65px;
+}
+
+
+.phone{
+  font-size: 20px;
+  margin-right: 5px;
+}
+
+.location{
+  font-size: 20px;
+  margin-right: 5px;
+}
+
+.footer-icons{
+  font-size: 16px;
+  color: #ffffff;
+  border: 1px solid #ffffff;
+  border-radius: 50px;
+  padding: 5px;
+}
+
+.footer-icons:hover{
+  color: #00e0d0;
+}

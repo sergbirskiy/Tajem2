@@ -1,0 +1,71 @@
+.grid-wrapper {
+  overflow: hidden;
+}
+.grid {
+  display: flex;
+  flex-wrap: wrap;
+
+}
+.grid-item {
+
+}
+
+.grid-large {
+  display: flex;
+  flex-wrap: wrap;
+  margin: -35px;
+}
+.grid-large .grid-item {
+  padding: 35px;
+}
+
+.grid-medium {
+  margin: 25px;
+}
+.grid-medium .grid-item {
+  padding: 25px;
+}
+
+.grid-small {
+  margin: -10px;
+
+}
+
+.grid-middle .grid-item {
+  padding: 15px;
+}
+
+.grid-middle {
+  margin: -15px;
+
+}
+
+.grid-small .grid-item {
+  padding: 10px;
+}
+
+.grid-experiance .grid-item {
+  border-right: 1px solid #c2c2c2;
+  border-top: 1px solid #c2c2c2;
+}
+
+.grid-X-small {
+  margin: -5px;
+}
+.grid-X-small .grid-item {
+  padding: 5px;
+}
+
+.grid-X-small {
+  margin: -5px;
+}
+.grid-X-small .grid-item {
+  padding: 5px;
+}
+
+.grid-micro {
+  margin: -1px;
+}
+.grid-micro .grid-item {
+  padding: 1px;
+}

@@ -1,0 +1,17 @@
+.hero {
+	margin: 0 60px;
+	line-height: 24px;
+}
+
+.hero-title {
+	margin: 20px;
+	font-size: 32px;
+    font-weight: 400;
+}
+
+.hero-subtitle {
+}
+
+.hero-description{
+	margin-bottom: 50px;
+}

@@ -1,0 +1,53 @@
+.card {
+}
+
+.card-title {
+	color: #413d4b;
+    font-size: 14px;
+    font-weight: 400;
+    text-transform: uppercase;
+    margin-top: 35px;
+}
+
+.card-description {
+	color: #333333;
+    font-size: 14px;
+    font-weight: 300;
+    line-height: 22px;
+}
+
+.card-image {
+	font-size: 50px;
+	color: #00e0d0;
+}
+
+.card-image > img {
+}
+
+
+.amazing-card-title {
+	color: #ffffff;
+    font-size: 14px;
+    font-weight: 400;
+    text-transform: uppercase;
+    letter-spacing: 0.7px;
+
+}
+
+.amazing-card-description {
+	color: #fafafa;
+    font-size: 13px;
+    font-weight: 300;
+    text-transform: uppercase;
+    margin-bottom: 30px;
+
+}
+
+.amazing-card-image {
+    height: 229px;
+}
+
+
+.amazing-card{
+	border: 1px solid #c2c2c2;
+}
